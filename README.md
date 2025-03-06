@@ -1,4 +1,4 @@
-# 📊 Summary Evaluation Tool
+# 📊 Single Summary Evaluation
 
 This project evaluates and compares the quality of text summaries using the **ROUGE** and **BERTScore** metrics. It is particularly useful for objectively assessing and visualizing the performance of text summarization models.
 
